@@ -31,16 +31,6 @@ Description of the train TSV file format:
 #### Alternus Vera Score:
 Fakeness = 0.9 * (Sensationalism) + 0.85 * (Political Affiliation) + 0.65 * (Spam Detection) + 0.75  * (Stance Detection) + 0.8 * (Spelling Error)	
 
-### Individual Contributions 
- <br>
- 
-|    Names          | Contributions                 | 
-| ----------------- |:-----------------------------:| 
-| Vidhi Sharma      | Sentiment Analysis, Sensationalism | 
-| Himangini Agrawal | Spam Detection, Stance Detection (Complex feature - distilling with domain ranking)       |  
-| Chidananda Pati   | Spelling Error, Political Affiliation      |   
-
-
 **Techniques and algorithms used:**
 * Data Enrichment: 
   - SMS Spam Collection Dataset from Kaggle
